@@ -1,3 +1,11 @@
-# hello 👋
-
-i'm joão just a hobbyist learning to program
+```
+     *****                .     | GODYNEZZ
+    **  __**___,      .         | just a guy that likes code
+    ** /        \          .    |
+     **          |              |
+      **         |    .         |
+      | **       |*             |
+       \  **    /  *  "         |
+        ^---**-^  **            |
+              ***               |
+```
