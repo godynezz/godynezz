@@ -1,11 +1,12 @@
 ```
-     *****                .     | GODYNEZZ
-    **  __**___,      .         | just a guy that likes code, and racing
-    ** /        \          .    |
-     **          |              | C + Python
-      **         |    .         | 
-      | **       |*             |
-       \  **    /  *            |
-        ^---**-^  **            |
-              ***               |
+ 
+ *****                     | About Me
+**  __**___,               | just a guy that likes code and racing
+** /        \              |
+ **          |             | Skills
+  **         |             | C + Python
+  | **       |*            |
+   \  **    /  *           | Projects
+    ^---**-^  **           | ass – a stupid shell in C
+          ***              | 
 ```
