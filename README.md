@@ -8,5 +8,6 @@
   | **       |*            |
    \  **    /  *           | Projects
     ^---**-^  **           | ass – a stupid shell in C
-          ***              | 
+          ***              | nanolib - s small c library
+                           |
 ```
